@@ -1,0 +1,37 @@
+[
+  {
+    "broken": [],
+    "client": 305,
+    "fonts": "loaded",
+    "scroll": 305,
+    "width": 320
+  },
+  {
+    "broken": [],
+    "client": 375,
+    "fonts": "loaded",
+    "scroll": 375,
+    "width": 390
+  },
+  {
+    "broken": [],
+    "client": 753,
+    "fonts": "loaded",
+    "scroll": 753,
+    "width": 768
+  },
+  {
+    "broken": [],
+    "client": 1009,
+    "fonts": "loaded",
+    "scroll": 1009,
+    "width": 1024
+  },
+  {
+    "broken": [],
+    "client": 1425,
+    "fonts": "loaded",
+    "scroll": 1425,
+    "width": 1440
+  }
+]

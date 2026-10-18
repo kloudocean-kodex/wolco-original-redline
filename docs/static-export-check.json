@@ -1,0 +1,173 @@
+{
+  "root": "C:\\Users\\gawar\\Downloads\\KloudOcean_ProddyG\\wolco-original-redline\\out",
+  "pageCount": 4,
+  "assetCount": 52,
+  "assets": [
+    "_next/static/KiiKiP4LRZf-3UM7L7UxN/_buildManifest.js",
+    "_next/static/KiiKiP4LRZf-3UM7L7UxN/_clientMiddlewareManifest.js",
+    "_next/static/KiiKiP4LRZf-3UM7L7UxN/_ssgManifest.js",
+    "_next/static/chunks/0cz1d0mv5g_q7.js",
+    "_next/static/chunks/0s7mvllxht1mo.js",
+    "_next/static/chunks/0umf92h1sb77c.js",
+    "_next/static/chunks/165lfiaflynjz.js",
+    "_next/static/chunks/1ayaagewvxz1y.css",
+    "_next/static/chunks/1ckvzn7sfprko.js",
+    "_next/static/chunks/1qke7fp6i91_k.js",
+    "_next/static/chunks/2bzlqb104tejm.js",
+    "_next/static/chunks/2x0tk20_yaibz.js",
+    "_next/static/chunks/turbopack-3-ry682tkyiqk.js",
+    "_next/static/media/cormorant_garamond_latin_italic-s.p.1pvupmngxrt5z.woff2",
+    "_next/static/media/cormorant_garamond_latin_normal-s.p.3huc2loe0ie8a.woff2",
+    "_next/static/media/manrope_latin_variable-s.p.1sj6eobyi31rd.woff2",
+    "brand/wolco-original-logo.webp",
+    "media/cookes-garden-1200.webp",
+    "media/cookes-garden-1800.webp",
+    "media/cookes-garden-800.webp",
+    "media/cookes-kitchen-1200.webp",
+    "media/cookes-kitchen-1800.webp",
+    "media/cookes-kitchen-800.webp",
+    "media/cookes-living-1200.webp",
+    "media/cookes-living-1800.webp",
+    "media/cookes-living-800.webp",
+    "media/generated-architectural-journey-poster.webp",
+    "media/generated-architectural-journey.mp4",
+    "media/generated-exterior-dusk-640.avif",
+    "media/generated-exterior-dusk-640.webp",
+    "media/generated-exterior-dusk-960.avif",
+    "media/generated-exterior-dusk-960.webp",
+    "media/generated-exterior-dusk.avif",
+    "media/generated-exterior-dusk.webp",
+    "media/generated-kitchen-640.avif",
+    "media/generated-kitchen-640.webp",
+    "media/generated-kitchen-960.avif",
+    "media/generated-kitchen-960.webp",
+    "media/generated-kitchen.avif",
+    "media/generated-kitchen.webp",
+    "media/generated-living-640.avif",
+    "media/generated-living-640.webp",
+    "media/generated-living-960.avif",
+    "media/generated-living-960.webp",
+    "media/generated-living.avif",
+    "media/generated-living.webp",
+    "media/generated-materials-640.avif",
+    "media/generated-materials-640.webp",
+    "media/generated-materials-960.avif",
+    "media/generated-materials-960.webp",
+    "media/generated-materials.avif",
+    "media/generated-materials.webp"
+  ],
+  "referencedAssets": [
+    "_next/static/chunks/0cz1d0mv5g_q7.js",
+    "_next/static/chunks/0s7mvllxht1mo.js",
+    "_next/static/chunks/0umf92h1sb77c.js",
+    "_next/static/chunks/165lfiaflynjz.js",
+    "_next/static/chunks/1ayaagewvxz1y.css",
+    "_next/static/chunks/1ckvzn7sfprko.js",
+    "_next/static/chunks/1qke7fp6i91_k.js",
+    "_next/static/chunks/2bzlqb104tejm.js",
+    "_next/static/chunks/2x0tk20_yaibz.js",
+    "_next/static/chunks/turbopack-3-ry682tkyiqk.js",
+    "_next/static/media/cormorant_garamond_latin_italic-s.p.1pvupmngxrt5z.woff2",
+    "_next/static/media/cormorant_garamond_latin_normal-s.p.3huc2loe0ie8a.woff2",
+    "_next/static/media/manrope_latin_variable-s.p.1sj6eobyi31rd.woff2",
+    "brand/wolco-original-logo.webp",
+    "media/cookes-kitchen-1800.webp",
+    "media/cookes-living-1800.webp",
+    "media/generated-architectural-journey-poster.webp",
+    "media/generated-exterior-dusk.webp",
+    "media/generated-kitchen.webp",
+    "media/generated-living.webp",
+    "media/generated-materials.webp"
+  ],
+  "pages": [
+    "404.html",
+    "index.html",
+    "404/index.html",
+    "_not-found/index.html"
+  ],
+  "issues": [],
+  "cssMissing": [],
+  "externalUrls": [],
+  "largestFiles": [
+    {
+      "file": "media/generated-architectural-journey.mp4",
+      "bytes": 12104844
+    },
+    {
+      "file": "media/generated-exterior-dusk.webp",
+      "bytes": 373492
+    },
+    {
+      "file": "media/cookes-garden-1800.webp",
+      "bytes": 343178
+    },
+    {
+      "file": "media/generated-materials.webp",
+      "bytes": 319764
+    },
+    {
+      "file": "media/generated-living.webp",
+      "bytes": 280890
+    },
+    {
+      "file": "_next/static/chunks/0s7mvllxht1mo.js",
+      "bytes": 229597
+    },
+    {
+      "file": "media/generated-kitchen.webp",
+      "bytes": 225132
+    },
+    {
+      "file": "media/generated-exterior-dusk.avif",
+      "bytes": 208470
+    },
+    {
+      "file": "media/generated-materials.avif",
+      "bytes": 183173
+    },
+    {
+      "file": "media/generated-architectural-journey-poster.webp",
+      "bytes": 169856
+    },
+    {
+      "file": "_next/static/chunks/1qke7fp6i91_k.js",
+      "bytes": 163683
+    },
+    {
+      "file": "media/cookes-garden-1200.webp",
+      "bytes": 161304
+    },
+    {
+      "file": "media/generated-living.avif",
+      "bytes": 156490
+    },
+    {
+      "file": "media/generated-exterior-dusk-960.webp",
+      "bytes": 151180
+    },
+    {
+      "file": "media/generated-materials-960.webp",
+      "bytes": 140262
+    },
+    {
+      "file": "_next/static/chunks/165lfiaflynjz.js",
+      "bytes": 135539
+    },
+    {
+      "file": "media/generated-kitchen.avif",
+      "bytes": 134239
+    },
+    {
+      "file": "media/generated-living-960.webp",
+      "bytes": 120910
+    },
+    {
+      "file": "_next/static/chunks/0cz1d0mv5g_q7.js",
+      "bytes": 112594
+    },
+    {
+      "file": "media/generated-kitchen-960.webp",
+      "bytes": 95944
+    }
+  ]
+}

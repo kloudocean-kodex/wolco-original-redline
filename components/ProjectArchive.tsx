@@ -1,0 +1,7 @@
+import { StudyAction } from "@/components/StudyAction";
+const projects=[
+{id:"W / 001",place:"COOKES ROAD / PROJECT PHOTOGRAPHY",title:"Built around\nthe way you live.",image:"/media/cookes-kitchen-1800.webp",copy:"A look inside Cookes Road through WOLCO's supplied project photography. A long island, timber joinery and a garden outlook."},
+{id:"W / 002",place:"COOKES ROAD / PROJECT PHOTOGRAPHY",title:"Light, proportion,\nquiet confidence.",image:"/media/cookes-living-1800.webp",copy:"The shared spaces at Cookes Road, photographed with their natural light and outlook. Supplied WOLCO project photography."}];
+export function ProjectArchive(){return <section id="projects" className="projects surface-ivory">
+<div className="section-pad project-heading"><div className="eyebrow row-between"><span>05 / THE WOLCO ARCHIVE</span><span>COOKES ROAD / PROJECT PHOTOGRAPHY</span></div><h2 className="display-lg">Homes as individual<br/>as the people inside them.</h2></div>
+{projects.map(p=><article className="project" key={p.id}><div className="project-image" style={{backgroundImage:`url("${p.image}")`}}/><div className="project-shade"/><div className="project-top"><span>{p.id}</span><span>{p.place}</span></div><h3>{p.title.split("\n").map(l=><span key={l}>{l}<br/></span>)}</h3><StudyAction title="Cookes Road" copy={p.copy} image={p.image} label="VIEW THE PHOTOGRAPH" className="project-link" real /></article>)}</section>}

@@ -1,0 +1,28 @@
+"use client";
+
+import { useEffect, useState } from "react";
+
+export function RedlineProgress() {
+  const [progress, setProgress] = useState(0);
+
+  useEffect(() => {
+    const update = () => {
+      const max = document.documentElement.scrollHeight - window.innerHeight;
+      const p = max > 0 ? window.scrollY / max : 0;
+      setProgress(Math.min(1, Math.max(0, p)));
+    };
+    update();
+    window.addEventListener("scroll", update, { passive: true });
+    window.addEventListener("resize", update);
+    return () => {
+      window.removeEventListener("scroll", update);
+      window.removeEventListener("resize", update);
+    };
+  }, []);
+
+  return (
+    <div className="redline-progress" aria-hidden="true">
+      <span style={{ transform: `scaleY(${progress})` }} />
+    </div>
+  );
+}
