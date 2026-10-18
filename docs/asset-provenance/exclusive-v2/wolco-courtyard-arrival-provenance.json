@@ -1,0 +1,13 @@
+{
+  "file": "wolco-courtyard-arrival.png",
+  "generator": "Built-in image_gen",
+  "prompt": "Generate ONE brand-new photorealistic architectural campaign photograph, landscape 16:9, for WOLCO Homes, a premium Melbourne custom-home builder. This must be an entirely new fictional design and composition, not a rework of any earlier image in this conversation. Dedicated visual identity: an architect-designed Australian courtyard residence, sculptural low-pitched charcoal standing-seam roof planes, exquisite long-format muted russet/clay brick masonry with fine recessed mortar joints, richly grained dark spotted-gum entry joinery, pale mineral paving, generous clear glass openings looking into a private planted courtyard. Sophisticated contemporary Victorian architecture, believable domestic scale, restrained and exceptionally crafted rather than a generic huge beige cubic villa. A mature sculptural eucalyptus and low native grasses frame the approach. Fine warm late-afternoon sunlight, nuanced brick and timber texture, natural blue-grey sky, soft deep interior light, extraordinary architectural editorial photography, convincing construction and verticals, real lens detail, subtle cinematic colour grade with russet, charcoal, timber and green. 35mm architectural lens, human-height three-quarter approach, entire frontage and roof in frame with breathing room, principal entry and building centred for both desktop and phone crops, wide composition, strong quiet hierarchy. Visual focus is the building and its courtyard: NO curtains, NO sheers, NO blinds, NO drapery, NO curtain-focused living-room scene, NO fabric swatch still life, NO fluted beige limestone mansion, NO stock luxury chair vignette. Absolutely no people, cars, signage, lettering, logos, watermarks or text. This is a single finished image, not a collage or a website mockup.",
+  "classification": "Fictional architectural concept, not a completed project or inclusion",
+  "dimensions": [
+    1672,
+    941
+  ],
+  "sha256": "ce149be6dd81acd77d0042b3aee1c84fa580f97ab276f42a21ef75f197996501",
+  "sourceVerification": "Unchanged built-in output copied from generated_images; prompt recovered exactly from this generation call.",
+  "inspection": "Root visually inspected architecture, brick/timber/charcoal roof/native planting; no people, text, logos or visible watermark."
+}

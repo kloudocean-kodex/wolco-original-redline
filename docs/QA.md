@@ -1,5 +1,7 @@
 # Verification — original Redline preview
 
+The results below describe the preceding release. The 19 October 2026 WOLCO-exclusive media update replaces the old generated film with genuine supplied Cookes Road footage and replaces the concept stills. Fresh build/static checks are recorded in `EXCLUSIVE_MEDIA_2026-10-19.md`; live browser checks must be repeated for the new assets before release.
+
 Observed 18 October 2026 in Edge. Local production export inspected at 320, 390, 768, 1024 and 1440 CSS pixels: no root horizontal overflow or broken loaded images. Fonts are local and loaded. Automated desktop/mobile accessibility scans reported zero violations; manual-review items remain explicitly recorded in `accessibility-checks.json`.
 
 Header and full-screen menu, Tab/Shift-Tab containment and Escape/focus return; three horizontal collections by mouse and keyboard; four WOW controls; two full-photograph viewers; validated editable brief, actual text download and email-draft URL; native 38.42-second film playback, seek and pause on close.

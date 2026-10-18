@@ -10,29 +10,29 @@ const materials = [
     id: "01",
     name: "COUNTERTOPS",
     kicker: "SURFACE / TEXTURE / TONE",
-    copy: "Compare surfaces at full scale and understand how colour, veining and texture change the character of a kitchen.",
-    image: "/media/generated-materials.webp",
+    copy: "Explore pale stone alongside white cabinetry and natural timber. A kitchen concept for a considered selection conversation.",
+    image: "/media/wolco-wow-white.webp",
   },
   {
     id: "02",
     name: "FLOORING",
     kicker: "FLOW / WARMTH / CONTINUITY",
-    copy: "See flooring as part of the whole interior language — not as an isolated sample chosen from a catalogue.",
-    image: "/media/generated-living.webp",
+    copy: "Consider a warm stone floor together with cashmere-toned cabinetry, light timber and the courtyard outlook.",
+    image: "/media/wolco-wow-cashmere.webp",
   },
   {
     id: "03",
     name: "CABINETRY",
     kicker: "FORM / STORAGE / DETAIL",
-    copy: "Explore profiles, finishes and combinations that let cabinetry support the architecture rather than compete with it.",
-    image: "/media/generated-kitchen.webp",
+    copy: "Deep timber, expressive stone and a restrained garnet accent explore a richer direction for the kitchen joinery.",
+    image: "/media/wolco-wow-espresso.webp",
   },
   {
     id: "04",
-    name: "TAPWARE + FINISHES",
-    kicker: "TOUCH / HARDWARE / ACCENT",
-    copy: "Bring the smallest decisions into the same design conversation — tapware, hardware, tones and the details that complete a room.",
-    image: "/media/generated-materials.webp",
+    name: "JOINERY + FINISHES",
+    kicker: "JUNCTION / MATERIAL / DETAIL",
+    copy: "Look closely at the meeting of brick, stone and timber: precise reveals, clean edges and the details that bring a room together.",
+    image: "/media/wolco-courtyard-touch.webp",
   },
 ];
 
@@ -72,7 +72,7 @@ export function WowStudio(){
       <h2 className="display-xl">Not a catalogue.<br/><em>See it together.</em></h2>
       <div className="wow-v2-copy">
         <p className="lede">The warmth of timber. The character of stone. Explore how individual material choices can belong to one considered whole.</p>
-        <p className="wow-source-note">Generated material and interior studies. Discuss available finishes with WOLCO.</p>
+        <p className="wow-source-note">Generated kitchen and joinery concepts. Discuss available finishes with WOLCO.</p>
       </div>
     </div>
 

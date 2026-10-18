@@ -22,7 +22,7 @@ Generated media and the original logo are served locally. Cookes Road uses the s
 
 `npm run test:video` checks the narrowly scoped video range Function. `prebuild` derives exact film sizes and routes from the public files. Full and partial responses stream without buffering the entire movie. Standard pages, fonts and images remain static. Video requests consume the account's applicable Workers quota; no paid plan or subscription was purchased.
 
-The four-chapter generated architectural film is silent, 38.42 seconds, 1280×720 at 24 fps, with visible source generation marks retained. It is concept inspiration rather than completed WOLCO project footage.
+The project film is a silent web edit of genuine WOLCO-supplied Cookes Road footage, with restrained grading and cross-dissolves. The original WOLCO corner mark is retained. Generated courtyard and kitchen studies remain clearly identified as fictional concepts. Current media provenance is in `docs/asset-provenance/exclusive-v2/`; earlier generated-film records are historical and superseded.
 
 ## Review and launch
 

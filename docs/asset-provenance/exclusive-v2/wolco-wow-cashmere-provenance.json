@@ -1,0 +1,34 @@
+{
+  "role": "wolco-wow-cashmere",
+  "classification": "Fictional WOLCO-exclusive concept selection study",
+  "generation_date": "2026-10-18",
+  "method": "Built-in image_gen.imagegen",
+  "tool_calls_for_this_role": 1,
+  "reference_images": [],
+  "prompt": "Use case: photorealistic-natural. Asset type: landscape 16:9 editorial image for a Melbourne custom-home builder's concept material-selection website. Primary request: a brand-new, exclusive architectural selection vignette for WOLCO, expressing Honed Travertine & Cashmere / Warm & Natural. Show a believable bespoke kitchen and selection-studio joinery vignette with softly warm cashmere-painted flat cabinet fronts, honed neutral travertine or pale mineral stone with convincing small pores and restrained natural variation, and natural timber joinery with clear straight grain. Include an architecturally integrated selection bench and two or three upright solid finish samples without labels, with restrained brushed metal details. The clear overall reading is soft mineral, cashmere and natural timber, neither brilliant-white nor a dark walnut/garnet scheme. Show plausible slab thickness, neat cabinet reveals and properly supported stone. Photography: eye-level gentle diagonal architectural view, 35mm lens, straight verticals, generous complete framing with calm crop-safe margins. Warm natural daylight, subtle shadows, tactile surface realism and premium but restrained editorial photography. A quiet Melbourne home-builder selection atmosphere with no theatrical styling. This is fictional concept inspiration, not a real WOLCO studio, advertised product range, approved specification or confirmed inclusion. Full landscape 16:9 frame. Absolutely no curtains, sheers, pleats, fabric drapes, upholstery, textile flat lays, hands, people, text, logos, watermarks, brands, labels or copied client imagery. Avoid orange colour cast, terracotta dominance, oversaturated gold, dark dramatic nightclub lighting, impossible floating stone, warped joinery, excessive props or glossy CGI.",
+  "saved_original": "retained-source/originals/wolco-wow-cashmere.png",
+  "source_tool_original": "retained-tool-output/exec-e4388f3a-a4b0-4a77-bcb0-4b109b40249d.png",
+  "original_bytes": 2340743,
+  "dimensions": [
+    1672,
+    941
+  ],
+  "format": "PNG",
+  "sha256": "4e5b3a8627a366ce0e0040073e1e7b4823f06d26fa3b8ee12beee34df68b9c98",
+  "byte_identical_to_tool_output": true,
+  "processing": "File copy only; no cropping, resizing, inpainting, watermark removal, colour alteration or other image editing.",
+  "intended_aspect": "Landscape 16:9",
+  "actual_aspect": 1.7768331562167907,
+  "visual_inspection": {
+    "role_match": "Soft cashmere-painted cabinetry, honed porous neutral stone, natural timber and upright sample boards. Visually warmer and more mineral than the white study, and distinct from the espresso/garnet study.",
+    "physical_review": "Coherent supported island and counter thickness, aligned cabinetry, plausible slab textures and metal tap. Natural daylight exposes material detail.",
+    "palette_labels": [
+      "Honed Travertine & Cashmere",
+      "Warm & Natural"
+    ]
+  },
+  "avoid_items_review": "No visible curtains, sheers, pleats, fabric drapes, textile flat lays, text, logos, watermark or people.",
+  "truth_boundary": "Concept inspiration only. Does not depict an actual WOLCO selection studio, product range, completed property, approved design or confirmed inclusion.",
+  "integration_status": "Not integrated; existing repository media and references untouched.",
+  "brand_separation": "No DAMAN media or styling reference was supplied to these calls. Final cross-brand perceptual clearance remains with root/media agent."
+}

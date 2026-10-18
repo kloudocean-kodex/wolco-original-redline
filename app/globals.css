@@ -39,7 +39,7 @@ a{color:inherit;text-decoration:none}button,input,select{font:inherit}::selectio
 .menu-links a:hover span{padding-left:18px;color:var(--red)}.menu-foot{display:flex;justify-content:space-between;font-size:9px;letter-spacing:.16em}
 
 .hero{height:100svh;min-height:680px;position:relative;overflow:hidden;background:#070707;color:#fff}
-.hero-frame{position:absolute;inset:0;background:url("/media/generated-exterior-dusk.webp") center/cover no-repeat;clip-path:inset(23% 16% 18% 16%);transform:scale(.92);will-change:transform,clip-path}
+.hero-frame{position:absolute;inset:0;background:url("/media/wolco-courtyard-arrival.webp") center/cover no-repeat;clip-path:inset(23% 16% 18% 16%);transform:scale(.92);will-change:transform,clip-path}
 .hero-shade{position:absolute;inset:0;background:linear-gradient(180deg,rgba(0,0,0,.22),rgba(0,0,0,.58))}
 .hero-blueprint{position:absolute;inset:0;width:100%;height:100%;pointer-events:none;opacity:.93}
 .blueprint-path{fill:none;stroke:var(--red);stroke-width:1.35;vector-effect:non-scaling-stroke;stroke-dasharray:1;stroke-dashoffset:1}
@@ -88,8 +88,8 @@ a{color:inherit;text-decoration:none}button,input,select{font:inherit}::selectio
 
 .kdr{min-height:120vh;display:grid;grid-template-columns:.7fr 1.3fr}.kdr-copy{padding:14vh var(--pad);display:flex;flex-direction:column;justify-content:center}.kdr-copy .lede{max-width:470px;color:#b7b4ae}.kdr-copy em{color:var(--red)}
 .kdr-stage{position:sticky;top:0;height:100svh;overflow:hidden}.kdr-old,.kdr-new{position:absolute;inset:0;background-position:center;background-size:cover}
-.kdr-old{background-image:linear-gradient(rgba(10,10,10,.38),rgba(10,10,10,.38)),url("/media/generated-materials.webp");filter:grayscale(1)}
-.kdr-new{background-image:url("/media/generated-exterior-dusk.webp")}
+.kdr-old{background-image:linear-gradient(rgba(10,10,10,.38),rgba(10,10,10,.38)),url("/media/wolco-courtyard-touch.webp");filter:grayscale(1)}
+.kdr-new{background-image:url("/media/wolco-courtyard-arrival.webp")}
 .kdr-line{position:absolute;top:0;bottom:0;left:50%;width:1px;background:var(--red);z-index:4}.kdr-label{position:absolute;z-index:5;top:30px;font-size:9px;letter-spacing:.15em}.kdr-label.before{left:30px}.kdr-label.after{right:30px}
 
 .build-map{min-height:100vh;display:grid;grid-template-columns:.6fr 1.4fr;gap:8vw;align-items:center}.map-copy .lede{max-width:500px;color:#4e4c48}.map-visual svg{width:100%;height:auto;overflow:visible}

@@ -1,0 +1,68 @@
+{
+  "generation_date": "2026-10-18",
+  "generator": "Built-in image_gen tool; three separate fresh generation calls, one per asset",
+  "reference": {
+    "path": "retained-source/originals/wolco-courtyard-arrival.png",
+    "role": "Visual-family reference viewed before generation. Not an edit target or completed WOLCO claim. No DAMAN media was read, supplied or referenced.",
+    "direct_image_input": false,
+    "sha256": "ce149be6dd81acd77d0042b3aee1c84fa580f97ab276f42a21ef75f197996501"
+  },
+  "classification": "Fictional architectural design inspiration; not a completed WOLCO home, confirmed plan, inclusion or actual location",
+  "original_preservation": "Copied byte-for-byte from built-in generated_images outputs. Source and saved original PNGs unchanged. No retouching, cropping, resizing, recoloring or watermark operation.",
+  "assets": [
+    {
+      "key": "wolco-courtyard-gather",
+      "prompt": "Use case: photorealistic-natural. Asset: a brand-new fictional architectural concept photograph for WOLCO Homes, landscape widescreen 16:9, ideally 2048x1152. This is a fresh composition, not an edit and not a photograph of a completed WOLCO project. Visual family: a low-rise Melbourne courtyard home in warm tactile narrow clay brick with charcoal standing-seam pitched roofs, spotted-gum timber, precise charcoal steel frames, native Australian courtyard planting and clear warm afternoon sunlight. Architecture-editorial photography, spatially believable construction, realistic material scale and excellent buildable geometry. Preserve important architecture within the central 70 percent so a responsive website can crop the edges. No people, text, signage, logos or watermark. No DAMAN reference or media, no curtains, blinds, sheer drapery, generic cream-chair vignette, folded fabric, or rounded travertine island.\nPrimary composition: a generous architect-designed kitchen seen as a complete interior in the same fictional courtyard-home family. A rectilinear pale warm quartzite island with crisp squared edges, realistic slender slab thickness and a shadow-gap base, precise flat-front spotted-gum cabinetry, an integrated charcoal appliance bank and minimal charcoal accents. A warm exposed clay-brick return wall and a courtyard view through full-height charcoal-framed glazing. The courtyard holds native planting, with natural light making quiet shadows across the worktop. Show the spatial relationship of island, clear working aisle, joinery and courtyard; this is an architectural room, not a countertop product vignette. A restrained domestic setting with the kitchen architecture dominant. Eye-level 28mm rectilinear lens, corrected verticals, tactile but clean surfaces, warm sunlight rather than orange filter. No impossible floating corners, distorted cabinetry or misaligned doors.",
+      "source_path": "retained-tool-output/exec-dee0507b-93b9-4552-8ab2-0e8024ad55eb.png",
+      "saved_path": "retained-source/originals/wolco-courtyard-gather.png",
+      "dimensions": {
+        "width": 1672,
+        "height": 941
+      },
+      "mode": "RGB",
+      "format": "PNG",
+      "bytes": 2840417,
+      "sha256": "4a123a6942686374e6449405a101c1e003308cb363fff50ab304fdf9ffe0e4cb",
+      "source_matches_saved_bytes": true,
+      "role": "Gather / architectural kitchen",
+      "visual_review": "Complete architectural kitchen with straight squared quartzite island, precise timber joinery, charcoal integrated appliances and visible clay brick courtyard family. Working aisles and supports appear coherent. No rounded island, curtain-focused vignette, people, text/logo or visible watermark. Warm courtyard light is natural-looking.",
+      "limitations": "A fictional concept; material and structural plausibility is a visual review, not construction engineering certification."
+    },
+    {
+      "key": "wolco-courtyard-dwell",
+      "prompt": "Use case: photorealistic-natural. Asset: a brand-new fictional architectural concept photograph for WOLCO Homes, landscape widescreen 16:9, ideally 2048x1152. This is a fresh composition, not an edit and not a photograph of a completed WOLCO project. Visual family: a low-rise Melbourne courtyard home in warm tactile narrow clay brick with charcoal standing-seam pitched roofs, spotted-gum timber, precise charcoal steel frames, native Australian courtyard planting and clear warm afternoon sunlight. Architecture-editorial photography, spatially believable construction, realistic material scale and excellent buildable geometry. Preserve important architecture within the central 70 percent so a responsive website can crop the edges. No people, text, signage, logos or watermark. No DAMAN reference or media, no curtains, blinds, sheer drapery, generic cream-chair vignette, folded fabric, or rounded travertine island.\nPrimary composition: a wide, spatial architectural living room in this fictional brick courtyard house, with a carefully detailed brick hearth as an architectural anchor, a spotted-gum timber ceiling, charcoal-framed courtyard glazing and a leafy native garden beyond. The room proportions, ceiling structure, hearth and courtyard relationship are the story. Furnish sparingly with one rich restrained garnet upholstered sofa and a low walnut table, keeping circulation clear and using straight refined forms. Warm sunlight crosses the brick and timber, with subtle shadow and depth. Do not make an interior-decoration vignette or a cream lounge-chair scene. No drapery of any kind. Eye-level 28mm rectilinear architectural photography, accurate verticals, coherent roof/ceiling structure, plausible glazing support and precise junctions. A generous composed room with premium natural texture and quiet color, not beige showroom styling.",
+      "source_path": "retained-tool-output/exec-8feb8627-f3b8-4965-a252-3954b719c1ac.png",
+      "saved_path": "retained-source/originals/wolco-courtyard-dwell.png",
+      "dimensions": {
+        "width": 1672,
+        "height": 941
+      },
+      "mode": "RGB",
+      "format": "PNG",
+      "bytes": 3036528,
+      "sha256": "275083be8ede65baa0495b34a54e05bcab8bbf292cec0067c7865425c2103f07",
+      "source_matches_saved_bytes": true,
+      "role": "Dwell / architectural living",
+      "visual_review": "Spatial living room with gabled timber ceiling, brick hearth, strong charcoal glazing structure and courtyard garden. Rich garnet/rust sofa and walnut low table remain subordinate to the architecture. No cream chair, drapery, people, text/logo or visible watermark.",
+      "limitations": "Fictional interior continuity is a visual-family study, not a verified plan or constructed WOLCO project."
+    },
+    {
+      "key": "wolco-courtyard-touch",
+      "prompt": "Use case: photorealistic-natural. Asset: a brand-new fictional architectural concept photograph for WOLCO Homes, landscape widescreen 16:9, ideally 2048x1152. This is a fresh composition, not an edit and not a photograph of a completed WOLCO project. Visual family: a low-rise Melbourne courtyard home in warm tactile narrow clay brick with charcoal standing-seam pitched roofs, spotted-gum timber, precise charcoal steel frames, native Australian courtyard planting and clear warm afternoon sunlight. Architecture-editorial photography, spatially believable construction, realistic material scale and excellent buildable geometry. Preserve important architecture within the central 70 percent so a responsive website can crop the edges. No people, text, signage, logos or watermark. No DAMAN reference or media, no curtains, blinds, sheer drapery, generic cream-chair vignette, folded fabric, or rounded travertine island.\nPrimary composition: a close architectural construction-detail photograph inside the same fictional courtyard home, focusing on the precise junction of warm textured clay brick, a crisp pale warm honed quartzite benchtop and finely made spotted-gum cabinetry. Show an actual plausible built junction: the vertical brick return meets the end of a stone benchtop, with a clean small shadow gap above the timber cabinet front and a precisely recessed charcoal metal window reveal nearby. The worktop has realistic thickness and supported construction; brick bonds and mortar joints align correctly, timber grain and cabinet reveals have believable scale. Warm oblique courtyard sunlight reveals tactile surfaces and creates a rich small shadow. Crop as an architectural detail rather than a flat lay, sample pile, kitchen-wide scene or furnishing vignette. Absolutely no fabric, folded linen, towels, curtains or upholstery. No flowers, food, decorative clutter or arbitrary objects. Premium editorial close photography with enough depth of field to inspect the construction geometry.",
+      "source_path": "retained-tool-output/exec-ce4df05c-c3d7-4599-afa1-0fbd7317ec86.png",
+      "saved_path": "retained-source/originals/wolco-courtyard-touch.png",
+      "dimensions": {
+        "width": 1672,
+        "height": 941
+      },
+      "mode": "RGB",
+      "format": "PNG",
+      "bytes": 2411542,
+      "sha256": "361f756165896b45d8c8b15b5b040d413c6803f5c64a1e243633600a707684af",
+      "source_matches_saved_bytes": true,
+      "role": "Touch / built junction detail",
+      "visual_review": "Close brick/stone/timber junction with quartzite benchtop, clear cabinet reveal and charcoal window frame. Brick bond, stone edge and joinery lines appear regular in the reviewed output. No folded fabric, linen, curtains, sample pile, people, text/logo or visible watermark.",
+      "limitations": "A fictional architectural detail, not a specification or a certified construction detail."
+    }
+  ]
+}

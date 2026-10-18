@@ -10,7 +10,7 @@ const designs=[
     number:"01",
     type:"AURELIA SERIES",
     title:"Elegance,\nconsidered.",
-    image:"/media/generated-exterior-dusk.webp",
+    image:"/media/wolco-courtyard-arrival.webp",
     meta:"LUXURIOUS HOMES · ELEGANCE · SOPHISTICATION",
     copy:"A refined Wolco collection built around comfort, proportion and considered detail."
   },
@@ -18,7 +18,7 @@ const designs=[
     number:"02",
     type:"ELEVATE SERIES",
     title:"Modern living,\nraised.",
-    image:"/media/generated-kitchen.webp",
+    image:"/media/wolco-courtyard-gather.webp",
     meta:"MODERN DESIGN · REFINED LUXURY · SPACIOUS LAYOUTS",
     copy:"A contemporary series balancing sleek finishes, generous space and everyday function."
   },
@@ -26,7 +26,7 @@ const designs=[
     number:"03",
     type:"SIMPLEX SERIES",
     title:"Simple by design.\nNever ordinary.",
-    image:"/media/generated-living.webp",
+    image:"/media/wolco-courtyard-dwell.webp",
     meta:"EFFICIENCY · PRACTICAL DESIGN · VALUE",
     copy:"Thoughtful, efficient layouts designed to keep quality and usability at the centre."
   }

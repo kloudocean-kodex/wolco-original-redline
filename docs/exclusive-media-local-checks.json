@@ -1,0 +1,43 @@
+{
+  "observedAt": "2026-10-19",
+  "scope": "Local source and final production export; live browser QA is a separate release gate.",
+  "lint": {
+    "command": "npm run lint",
+    "exitCode": 0
+  },
+  "build": {
+    "command": "npm run build",
+    "exitCode": 0,
+    "compile": "passed",
+    "typescript": "passed",
+    "staticExport": "passed"
+  },
+  "videoRanges": {
+    "command": "npm run test:video",
+    "passed": true,
+    "scenarios": 18
+  },
+  "staticExport": {
+    "htmlFiles": 4,
+    "assets": 70,
+    "issues": 0,
+    "missingCssDependencies": 0
+  },
+  "publicationScan": {
+    "command": "publication_scan.py wolco-original-redline",
+    "findings": 0,
+    "scope": "Git publishable files only; no secret values logged"
+  },
+  "newProvenancePrivacy": "No absolute workstation paths, raw Drive folder URLs or private generation-chat URLs.",
+  "supersededGeneratedPublicMedia": [],
+  "diffWhitespace": "passed",
+  "films": [
+    {
+      "file": "media/wolco-project-journey-v2.mp4",
+      "bytes": 5290007,
+      "sha256": "660ac641ac7c8c292533118e92186b1b556ef02c9ebfdb4781ae09b43640f3c3",
+      "exportedBytesMatch": true
+    }
+  ],
+  "liveBrowserReview": "pending parent audit"
+}

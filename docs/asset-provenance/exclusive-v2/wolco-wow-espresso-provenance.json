@@ -1,0 +1,34 @@
+{
+  "role": "wolco-wow-espresso",
+  "classification": "Fictional WOLCO-exclusive concept selection study",
+  "generation_date": "2026-10-18",
+  "method": "Built-in image_gen.imagegen",
+  "tool_calls_for_this_role": 1,
+  "reference_images": [],
+  "prompt": "Use case: photorealistic-natural. Asset type: landscape 16:9 editorial image for a Melbourne custom-home builder's concept material-selection website. Primary request: a brand-new, exclusive architectural selection vignette for WOLCO, expressing Espresso, Walnut & Garnet / Earth & Ember. Show believable bespoke kitchen and selection-studio joinery: rich walnut flat-panel cabinetry with fine realistic grain, one clearly visible solid garnet-red architectural cabinet or wall panel with a matte mineral finish, a warm neutral honed mineral-stone bench and splashback, and small aged-metal hardware or a restrained aged-bronze tap. One or two solid architectural samples can stand against the back of the bench, unlabelled. It must unmistakably read as walnut, garnet, warm stone and aged metal, with enough soft daylight to see the materials; not the pale white or cashmere palette. Grounded, elegant, architectural and human-scale, physically coherent cabinet joins and slab support. Photography: eye-level three-quarter composition, 35mm architectural lens, straight verticals, complete vignette and calm breathing room around every edge for cropping. Warm Melbourne daylight with subtle shadows, precise editorial photographic texture, nuanced rich colour without oversaturation or glossy CGI. This is a fictional concept selection study, not an actual WOLCO studio, product range, completed home, approved design or promised inclusion. Full landscape 16:9 frame. Absolutely no curtains, sheers, pleats, fabric drapes, upholstery, textile flat lays, people, hands, text, branding, logos, watermarks, labels, copied client imagery or decorative gold clutter. Avoid blacked-out nightclub lighting, synthetic red neon, giant unsupported stone slabs, warped joinery and excessive props.",
+  "saved_original": "retained-source/originals/wolco-wow-espresso.png",
+  "source_tool_original": "retained-tool-output/exec-998fc70e-e03d-4899-adf3-45de4ea5febb.png",
+  "original_bytes": 2489249,
+  "dimensions": [
+    1672,
+    941
+  ],
+  "format": "PNG",
+  "sha256": "322cc0452a44705eacd86c515cd7259cb1a3dd73ddeb9ef7e563fa4ef883eb32",
+  "byte_identical_to_tool_output": true,
+  "processing": "File copy only; no cropping, resizing, inpainting, watermark removal, colour alteration or other image editing.",
+  "intended_aspect": "Landscape 16:9",
+  "actual_aspect": 1.7768331562167907,
+  "visual_inspection": {
+    "role_match": "Rich walnut joinery, clearly visible solid garnet architectural cabinetry, warm mineral-stone counter and aged-metal tap/accents. Rich scheme is readable in daylight.",
+    "physical_review": "Straight architectural verticals, coherent cabinet divisions, supported waterfall stone island and believable hardware. Garnet panel reads as rigid cabinetry rather than fabric.",
+    "palette_labels": [
+      "Espresso, Walnut & Garnet",
+      "Earth & Ember"
+    ]
+  },
+  "avoid_items_review": "No visible curtains, sheers, pleats, fabric drapes, textile flat lays, text, logos, watermark or people.",
+  "truth_boundary": "Concept inspiration only. Does not depict an actual WOLCO selection studio, product range, completed property, approved design or confirmed inclusion.",
+  "integration_status": "Not integrated; existing repository media and references untouched.",
+  "brand_separation": "No DAMAN media or styling reference was supplied to these calls. Final cross-brand perceptual clearance remains with root/media agent."
+}

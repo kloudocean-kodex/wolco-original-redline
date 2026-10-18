@@ -1,0 +1,34 @@
+{
+  "role": "wolco-wow-white",
+  "classification": "Fictional WOLCO-exclusive concept selection study",
+  "generation_date": "2026-10-18",
+  "method": "Built-in image_gen.imagegen",
+  "tool_calls_for_this_role": 1,
+  "reference_images": [],
+  "prompt": "Use case: photorealistic-natural. Asset type: landscape 16:9 editorial image for a Melbourne custom-home builder's concept material-selection website. Primary request: a brand-new, exclusive architectural selection vignette for WOLCO, expressing the palette White is Always Right / Light & Open. Show believable bespoke kitchen and selection-studio joinery at an attainable architectural scale: genuinely white matte cabinet fronts, chalk-white mineral wall, a thin but physically plausible white porcelain bench surface with quiet off-white variation, pale natural joinery at one end, a small subtle brushed warm-metal tap or architectural handle. A few solid architectural finish samples may stand neatly at the back of the selection bench; no labels. The dominant reading must be white and light, with precise cabinet reveals and realistic joinery construction. Photography: eye-level gentle three-quarter view, 35mm architectural lens, straight verticals, calm composition with the complete vignette framed generously and clean breathing room at every edge for responsive cropping. Natural Melbourne daylight from bare glazing, softly modelled shadows, balanced exposure that keeps white surface detail, quietly rich editorial photographic realism, no glossy CGI. This is a fictional concept selection study, not a photograph of an actual studio, product range, completed WOLCO home or confirmed inclusion. Full landscape frame. Absolutely no curtains, sheers, pleats, fabric drapes, upholstery, textile flat lays, people, branding, text, logos, watermarks, product labels or copied client imagery. Avoid beige dominance, heavy dark walls, exaggerated gold, mansion styling, floating stone, distorted cabinetry and busy decoration.",
+  "saved_original": "retained-source/originals/wolco-wow-white.png",
+  "source_tool_original": "retained-tool-output/exec-58703c84-a911-477d-913d-47f10d5aebd2.png",
+  "original_bytes": 1999660,
+  "dimensions": [
+    1672,
+    941
+  ],
+  "format": "PNG",
+  "sha256": "f0002082ebc3636fa5759f24abb57c94d69586623c7ea9f55a6ae800cc5ae1d0",
+  "byte_identical_to_tool_output": true,
+  "processing": "File copy only; no cropping, resizing, inpainting, watermark removal, colour alteration or other image editing.",
+  "intended_aspect": "Landscape 16:9",
+  "actual_aspect": 1.7768331562167907,
+  "visual_inspection": {
+    "role_match": "White/chalk/porcelain-led kitchen vignette with pale natural joinery, restrained warm-metal tap, and solid selection samples. Genuinely white rather than a rich dark image mapped to a white label.",
+    "physical_review": "Plausible cabinet reveals and supported waterfall island; consistent perspective and glazing; visible sample boards read as rigid architecture materials. No visible warped cabinetry or floating unsupported stone.",
+    "palette_labels": [
+      "White is Always Right",
+      "Light & Open"
+    ]
+  },
+  "avoid_items_review": "No visible curtains, sheers, pleats, fabric drapes, textile flat lays, text, logos, watermark or people.",
+  "truth_boundary": "Concept inspiration only. Does not depict an actual WOLCO selection studio, product range, completed property, approved design or confirmed inclusion.",
+  "integration_status": "Not integrated; existing repository media and references untouched.",
+  "brand_separation": "No DAMAN media or styling reference was supplied to these calls. Final cross-brand perceptual clearance remains with root/media agent."
+}
