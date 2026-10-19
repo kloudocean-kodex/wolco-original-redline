@@ -12,7 +12,7 @@ export function SiteHeader() {
   useEffect(() => { const fn = () => setScrolled(window.scrollY > 60); fn(); window.addEventListener("scroll", fn, { passive: true }); return () => window.removeEventListener("scroll", fn); }, []);
   return <>
     <header className={`site-header ${scrolled ? "is-scrolled" : ""}`}>
-      <Link className="brand" href="/#top" aria-label="WOLCO Homes — home"><Image src="/brand/wolco-original-logo.webp" alt="WOLCO Homes" width={606} height={286} className="original-logo" unoptimized priority /></Link>
+      <Link className="brand original-brand" href="/#top" aria-label="WOLCO Homes — home"><Image src="/brand/wolco-original-colour-logo-transparent.png" alt="WOLCO Homes" width={606} height={286} className="original-logo" unoptimized priority /></Link>
       <nav className="desktop-nav" aria-label="Primary">{nav.map(([label, href]) => <Link key={label} href={href}>{label}</Link>)}</nav>
       <button ref={trigger} className="menu-trigger" type="button" aria-label="Open navigation" aria-haspopup="dialog" aria-expanded={open} aria-controls="site-menu" onClick={() => { dialog.current?.showModal(); setOpen(true); }}><span>MENU</span><i aria-hidden="true" /></button>
     </header>

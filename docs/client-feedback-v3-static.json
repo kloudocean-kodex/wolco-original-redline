@@ -1,0 +1,197 @@
+{
+  "root": "C:\\Users\\gawar\\Downloads\\KloudOcean_ProddyG\\wolco-original-redline\\out",
+  "pageCount": 4,
+  "assetCount": 71,
+  "assets": [
+    "_next/static/chunks/0cz1d0mv5g_q7.js",
+    "_next/static/chunks/0s7mvllxht1mo.js",
+    "_next/static/chunks/0umf92h1sb77c.js",
+    "_next/static/chunks/1ckvzn7sfprko.js",
+    "_next/static/chunks/1qke7fp6i91_k.js",
+    "_next/static/chunks/1qxdkk2e_tt14.css",
+    "_next/static/chunks/2-54rhao524-5.js",
+    "_next/static/chunks/2bzlqb104tejm.js",
+    "_next/static/chunks/2cmc0yw4pqf44.js",
+    "_next/static/chunks/turbopack-3-ry682tkyiqk.js",
+    "_next/static/media/cormorant_garamond_latin_italic-s.p.1pvupmngxrt5z.woff2",
+    "_next/static/media/cormorant_garamond_latin_normal-s.p.3huc2loe0ie8a.woff2",
+    "_next/static/media/manrope_latin_variable-s.p.1sj6eobyi31rd.woff2",
+    "_next/static/teNuqqxeo73DFEJ-k7D_B/_buildManifest.js",
+    "_next/static/teNuqqxeo73DFEJ-k7D_B/_clientMiddlewareManifest.js",
+    "_next/static/teNuqqxeo73DFEJ-k7D_B/_ssgManifest.js",
+    "brand/wolco-original-colour-logo-transparent.png",
+    "brand/wolco-original-logo.webp",
+    "media/cookes-garden-1200.webp",
+    "media/cookes-garden-1800.webp",
+    "media/cookes-garden-800.webp",
+    "media/cookes-kitchen-1200.webp",
+    "media/cookes-kitchen-1800.webp",
+    "media/cookes-kitchen-800.webp",
+    "media/cookes-living-1200.webp",
+    "media/cookes-living-1800.webp",
+    "media/cookes-living-800.webp",
+    "media/wolco-courtyard-arrival-640.avif",
+    "media/wolco-courtyard-arrival-640.webp",
+    "media/wolco-courtyard-arrival-960.avif",
+    "media/wolco-courtyard-arrival-960.webp",
+    "media/wolco-courtyard-arrival.avif",
+    "media/wolco-courtyard-arrival.webp",
+    "media/wolco-courtyard-dwell-640.avif",
+    "media/wolco-courtyard-dwell-640.webp",
+    "media/wolco-courtyard-dwell-960.avif",
+    "media/wolco-courtyard-dwell-960.webp",
+    "media/wolco-courtyard-dwell.avif",
+    "media/wolco-courtyard-dwell.webp",
+    "media/wolco-courtyard-gather-640.avif",
+    "media/wolco-courtyard-gather-640.webp",
+    "media/wolco-courtyard-gather-960.avif",
+    "media/wolco-courtyard-gather-960.webp",
+    "media/wolco-courtyard-gather.avif",
+    "media/wolco-courtyard-gather.webp",
+    "media/wolco-courtyard-touch-640.avif",
+    "media/wolco-courtyard-touch-640.webp",
+    "media/wolco-courtyard-touch-960.avif",
+    "media/wolco-courtyard-touch-960.webp",
+    "media/wolco-courtyard-touch.avif",
+    "media/wolco-courtyard-touch.webp",
+    "media/wolco-project-journey-v2-poster.webp",
+    "media/wolco-project-journey-v2.mp4",
+    "media/wolco-wow-cashmere-640.avif",
+    "media/wolco-wow-cashmere-640.webp",
+    "media/wolco-wow-cashmere-960.avif",
+    "media/wolco-wow-cashmere-960.webp",
+    "media/wolco-wow-cashmere.avif",
+    "media/wolco-wow-cashmere.webp",
+    "media/wolco-wow-espresso-640.avif",
+    "media/wolco-wow-espresso-640.webp",
+    "media/wolco-wow-espresso-960.avif",
+    "media/wolco-wow-espresso-960.webp",
+    "media/wolco-wow-espresso.avif",
+    "media/wolco-wow-espresso.webp",
+    "media/wolco-wow-white-640.avif",
+    "media/wolco-wow-white-640.webp",
+    "media/wolco-wow-white-960.avif",
+    "media/wolco-wow-white-960.webp",
+    "media/wolco-wow-white.avif",
+    "media/wolco-wow-white.webp"
+  ],
+  "referencedAssets": [
+    "_next/static/chunks/0cz1d0mv5g_q7.js",
+    "_next/static/chunks/0s7mvllxht1mo.js",
+    "_next/static/chunks/0umf92h1sb77c.js",
+    "_next/static/chunks/1ckvzn7sfprko.js",
+    "_next/static/chunks/1qke7fp6i91_k.js",
+    "_next/static/chunks/1qxdkk2e_tt14.css",
+    "_next/static/chunks/2-54rhao524-5.js",
+    "_next/static/chunks/2bzlqb104tejm.js",
+    "_next/static/chunks/2cmc0yw4pqf44.js",
+    "_next/static/chunks/turbopack-3-ry682tkyiqk.js",
+    "_next/static/media/cormorant_garamond_latin_italic-s.p.1pvupmngxrt5z.woff2",
+    "_next/static/media/cormorant_garamond_latin_normal-s.p.3huc2loe0ie8a.woff2",
+    "_next/static/media/manrope_latin_variable-s.p.1sj6eobyi31rd.woff2",
+    "brand/wolco-original-colour-logo-transparent.png",
+    "media/cookes-kitchen-1800.webp",
+    "media/cookes-living-1800.webp",
+    "media/wolco-courtyard-arrival-640.avif",
+    "media/wolco-courtyard-arrival-640.webp",
+    "media/wolco-courtyard-arrival-960.avif",
+    "media/wolco-courtyard-arrival-960.webp",
+    "media/wolco-courtyard-arrival.avif",
+    "media/wolco-courtyard-arrival.webp",
+    "media/wolco-courtyard-dwell.webp",
+    "media/wolco-courtyard-gather.webp",
+    "media/wolco-courtyard-touch.webp",
+    "media/wolco-project-journey-v2-poster.webp"
+  ],
+  "pages": [
+    "404.html",
+    "index.html",
+    "404/index.html",
+    "_not-found/index.html"
+  ],
+  "issues": [],
+  "cssMissing": [],
+  "externalUrls": [],
+  "largestFiles": [
+    {
+      "file": "media/wolco-project-journey-v2.mp4",
+      "bytes": 5290007
+    },
+    {
+      "file": "media/wolco-courtyard-arrival.webp",
+      "bytes": 370638
+    },
+    {
+      "file": "media/cookes-garden-1800.webp",
+      "bytes": 343178
+    },
+    {
+      "file": "media/wolco-courtyard-dwell.webp",
+      "bytes": 302522
+    },
+    {
+      "file": "media/wolco-courtyard-gather.webp",
+      "bytes": 265668
+    },
+    {
+      "file": "media/wolco-courtyard-arrival.avif",
+      "bytes": 238004
+    },
+    {
+      "file": "_next/static/chunks/0s7mvllxht1mo.js",
+      "bytes": 229597
+    },
+    {
+      "file": "media/wolco-courtyard-dwell.avif",
+      "bytes": 201031
+    },
+    {
+      "file": "media/wolco-wow-espresso.webp",
+      "bytes": 188218
+    },
+    {
+      "file": "media/wolco-courtyard-gather.avif",
+      "bytes": 179193
+    },
+    {
+      "file": "media/wolco-courtyard-touch.webp",
+      "bytes": 177114
+    },
+    {
+      "file": "_next/static/chunks/1qke7fp6i91_k.js",
+      "bytes": 163683
+    },
+    {
+      "file": "media/cookes-garden-1200.webp",
+      "bytes": 161304
+    },
+    {
+      "file": "media/wolco-courtyard-arrival-960.webp",
+      "bytes": 154730
+    },
+    {
+      "file": "media/wolco-wow-cashmere.webp",
+      "bytes": 152444
+    },
+    {
+      "file": "_next/static/chunks/2-54rhao524-5.js",
+      "bytes": 135774
+    },
+    {
+      "file": "media/wolco-wow-espresso.avif",
+      "bytes": 131481
+    },
+    {
+      "file": "media/wolco-project-journey-v2-poster.webp",
+      "bytes": 129560
+    },
+    {
+      "file": "media/wolco-courtyard-touch.avif",
+      "bytes": 126578
+    },
+    {
+      "file": "media/wolco-courtyard-dwell-960.webp",
+      "bytes": 125990
+    }
+  ]
+}

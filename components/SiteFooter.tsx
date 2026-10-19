@@ -2,7 +2,7 @@ import Link from "next/link";
 import Image from "next/image";
 export function SiteFooter(){
   return <footer className="site-footer">
-    <div className="footer-word" aria-hidden="true">WOLCO</div><Link href="/#top" aria-label="WOLCO Homes — back to top"><Image className="original-logo footer-original-logo" src="/brand/wolco-original-logo.webp" alt="WOLCO Homes" width={606} height={286} unoptimized /></Link>
+    <div className="footer-word" aria-hidden="true">WOLCO</div><Link className="footer-logo-link" href="/#top" aria-label="WOLCO Homes — back to top"><Image className="original-logo footer-original-logo" src="/brand/wolco-original-colour-logo-transparent.png" alt="WOLCO Homes" width={606} height={286} unoptimized /></Link>
     <div className="footer-grid">
       <div><span className="footer-label">VISIT</span><p>9/28 Longford Road<br/>Epping VIC</p></div>
       <div><span className="footer-label">EXPLORE</span><Link href="/#designs">Home designs</Link><Link href="/#wow">WOW Studio</Link><Link href="/#journey">Build journey</Link></div>
