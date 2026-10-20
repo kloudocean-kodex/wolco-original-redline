@@ -1,7 +1,8 @@
 {
   "version": 1,
   "include": [
-    "/media/wolco-project-journey-v2.mp4"
+    "/media/wolco-project-journey-v2.mp4",
+    "/media/generated-*"
   ],
   "exclude": []
 }

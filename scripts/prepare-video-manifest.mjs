@@ -13,5 +13,5 @@ for(const name of (await readdir(directory)).sort()){
 if(!Object.keys(sizes).length)throw new Error('No architectural film found');
 await mkdir(path.join(root,'lib'),{recursive:true});
 await writeFile(path.join(root,'lib/video-manifest.mjs'),'// Generated from public/media by npm run build. No runtime filesystem access.\n/** @type {Readonly<Record<string, number>>} */\nexport const videoSizes = Object.freeze('+JSON.stringify(sizes,null,2)+');\n');
-await writeFile(path.join(root,'public/_routes.json'),JSON.stringify({version:1,include:Object.keys(sizes),exclude:[]},null,2)+'\n');
+await writeFile(path.join(root,'public/_routes.json'),JSON.stringify({version:1,include:[...Object.keys(sizes),'/media/generated-*'],exclude:[]},null,2)+'\n');
 console.log('Prepared exact video sizes and scoped Functions routes.');

@@ -1,12 +1,19 @@
 /* global FixedLengthStream */
 import {videoSizes} from "../../lib/video-manifest.mjs";
-// Only the exact film URLs in public/_routes.json invoke this function.
+// Exact film URLs and the retired generated-media prefix invoke this function.
 const films = new Set(Object.keys(videoSizes));
 
 /** @type {import("@cloudflare/workers-types").PagesFunction} */
 export const onRequest = async (context) => {
   const request = context.request;
   const pathname = new URL(request.url).pathname;
+  // An old immutable edge-cache entry must never resurrect retired imagery.
+  if (pathname.startsWith("/media/generated-")) {
+    return new Response(null, {status:410,headers:{
+      "Cache-Control":"no-store", "X-Robots-Tag":"noindex, nofollow",
+      "X-Content-Type-Options":"nosniff",
+    }});
+  }
   if (!films.has(pathname) || !["GET", "HEAD"].includes(request.method)) {
     return context.next();
   }

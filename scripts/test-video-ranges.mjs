@@ -45,4 +45,8 @@ const head=await onRequest({request:new Request('https://demo.test/media/wolco-p
 assert.equal(head.status,200);assert.equal(head.headers.get('Accept-Ranges'),'bytes');assert.equal(await head.text(),'');
 const fallback=await onRequest({request:new Request('https://demo.test/media/photo.webp'),next:()=>new Response('static')});
 assert.equal(await fallback.text(),'static');
-console.log(JSON.stringify({passed:true,scenarios:cases.length+2,scope:'full GET, HEAD, byte intervals, suffixes, unsatisfiable ranges, If-Range, multipart fallback, static bypass'}));
+for(const method of ['GET','HEAD']){
+  const retired=await onRequest({request:new Request('https://demo.test/media/generated-kitchen.webp',{method}),env:{ASSETS:{fetch(){throw new Error('Retired media must not access cached assets');}}},next(){throw new Error('Retired media must not fall through');}});
+  assert.equal(retired.status,410);assert.equal(retired.headers.get('Cache-Control'),'no-store');assert.equal(await retired.text(),'');
+}
+console.log(JSON.stringify({passed:true,scenarios:cases.length+4,scope:'full GET, HEAD, byte intervals, suffixes, unsatisfiable ranges, If-Range, multipart fallback, static bypass, retired media GET/HEAD without asset fetch'}));
